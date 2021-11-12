@@ -13,7 +13,7 @@ function App() {
     <Router>
     
     <Navbar
-        logo='MADE IT HAPPEN YES Elhilo'
+        logo='MADE IT HAPPasdfasdfadfsEN YES Elhilo'
         aboutme='ABOUT ME'
         projects='PROJECTS'
         contact='CONTACT'
