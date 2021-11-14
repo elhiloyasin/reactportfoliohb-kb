@@ -8,12 +8,10 @@ function AboutMe() {
 
 
        <>
-
-        <div className="aboutmepage">
         <h1>Hello my name is Yaze yooo</h1>
-        </div>
+        
 
-
+   
         </>
 
     )
