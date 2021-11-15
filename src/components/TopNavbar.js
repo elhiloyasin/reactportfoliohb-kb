@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
     <ReactBootStrap.Navbar collapseOnSelect expand="md" id="navbar-color" variant="dark">
     <ReactBootStrap.Container>
     <Link to='/' style={{ textDecoration: 'none' }}>
-    <ReactBootStrap.Navbar.Brand href="#home">{logo}</ReactBootStrap.Navbar.Brand>
+    <ReactBootStrap.Navbar.Brand href="#home" className='logo'>{logo}</ReactBootStrap.Navbar.Brand>
     </Link>
     <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">

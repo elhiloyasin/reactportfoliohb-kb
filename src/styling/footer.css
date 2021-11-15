@@ -1,0 +1,7 @@
+.footer{
+ color: rgb(0, 0, 0);
+position: absolute;
+   bottom: 0;
+   width:100%;   /* Height of the footer */
+   background-color: rgba(19, 172, 206, 0.926);
+}

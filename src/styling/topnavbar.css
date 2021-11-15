@@ -1,4 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
 #navbar-color{
-background-color: black;
+background-color: rgba(19, 171, 206, 0.87);
 }
+
+body{
+  background-image: url(./einstein.jpg);  
+}
+
+.logo{
+    font-size: 2rem !important;
+    color: #040300 !important;
+    font-family: Shrikhand;
+  }
+
+.active{
+    font-size: large !important;
+    color: #000000 !important;
+
+}
+
+
+
 

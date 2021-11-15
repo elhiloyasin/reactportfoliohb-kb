@@ -3,7 +3,7 @@ import React from 'react'
 
 function Footer() {
     return (
-        <div>
+        <div className='footer'>
             <h1>YO YAZE IM FOOTER DAWG</h1>
         </div>
     )

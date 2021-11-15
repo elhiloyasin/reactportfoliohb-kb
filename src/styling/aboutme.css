@@ -1,10 +1,3 @@
-/* * {
-    box-sizing: border-box;
-    margin: 0;
-    padding:0;
-  }
-
-.aboutmepage{
-  margin-top: 9rem;
-  background-color: aquamarine;
-} */
+.intro{
+ color: blue !important;
+} 
