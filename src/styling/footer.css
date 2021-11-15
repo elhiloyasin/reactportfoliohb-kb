@@ -1,7 +1,17 @@
-.footer{
+.bg-footer{
  color: rgb(0, 0, 0);
 position: absolute;
    bottom: 0;
    width:100%;   /* Height of the footer */
-   background-color: rgba(19, 172, 206, 0.926);
+   background-color:rgba(19, 20, 19, 0.782);
+}
+
+#name-year{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* padding-left: 4rem; */
+
+    font-weight: 500;
+    color:rgb(255, 255, 255);
 }

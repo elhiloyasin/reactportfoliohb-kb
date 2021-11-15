@@ -1,24 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Permanent+Marker&family=Shrikhand&display=swap');
 
 #navbar-color{
-background-color: rgba(19, 171, 206, 0.87);
+background-color: rgb(25, 148, 175);
 }
 
 body{
-  background-image: url(./einstein.jpg);  
+  background-image: url(./einstein.jpg);
 }
 
 .logo{
+    color: rgb(0, 0, 0) !important;
     font-size: 2rem !important;
-    color: #040300 !important;
     font-family: Shrikhand;
   }
+
+  
 
 .active{
     font-size: large !important;
     color: #000000 !important;
-
 }
+
+
 
 
 

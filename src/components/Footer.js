@@ -3,8 +3,8 @@ import React from 'react'
 
 function Footer() {
     return (
-        <div className='footer'>
-            <h1>YO YAZE IM FOOTER DAWG</h1>
+        <div className='bg-footer'  id='name-year'>
+            <p>Yassin Elhilo, 2021</p>
         </div>
     )
 }
